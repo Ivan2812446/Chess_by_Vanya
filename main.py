@@ -791,7 +791,7 @@ class AboutScreen:
         lines = [
             "Соцсети автора:",
             "GitHub - Ivan2812446",
-            "TG - python_by_vanya",
+            "TG - t.me/Ivans_Tech_Notes",
             "Kwork - Sergeev_Ivan",
             "",
             "Функции:",
@@ -1109,4 +1109,5 @@ def main():
     sys.exit()
 
 if __name__ == "__main__":
+
     main()
