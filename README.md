@@ -17,7 +17,7 @@ python main.py
 ## 📱 Author's Social Media / Соцсети автора
 
 * **GitHub** - [Ivan2812446](https://github.com/Ivan2812446) 🐙
-* **Telegram** - [@python_by_vanya](https://t.me/python_by_vanya) ✈️
+* **Telegram** - [python_by_vanya](https://t.me/python_by_vanya) ✈️
 * **Kwork** - [Sergeev_Ivan](https://kwork.ru/user/Sergeev_Ivan) 💼
 
 ## ⚡ Features / Функции
